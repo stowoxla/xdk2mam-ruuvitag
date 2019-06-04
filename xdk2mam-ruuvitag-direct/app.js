@@ -112,3 +112,5 @@ function parseAndDisplayData(advertisement) {
 
 	 return xdk2mam
 }
+
+// Test
